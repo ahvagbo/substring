@@ -7,7 +7,7 @@ A program which replicates the ```substring(str, start, length)``` function whic
 1. Retrieve the source code: ```git clone https://github.com/ahvagbo/substring```.
 2. Go to the source directory.
 3. Run ```make```.
-4. Copy the ```substring``` executable in the root directory. DON'T FORGET ```sudo```.
+4. Copy the ```substring``` executable in the ```/usr/bin``` directory. DON'T FORGET ```sudo```.
 
 ### License
 
